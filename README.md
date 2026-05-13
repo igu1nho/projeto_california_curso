@@ -2,7 +2,7 @@
 
 Modelo de projeto de ciência de dados para ser utilizado como referência em projetos
 futuros. Desenvolvido pelo, [Francisco Bustamante](https://github.com/chicolucio),
-para alunos iniciantes em ciência de dados de meus cursos e mentorias.
+para alunos iniciantes em ciência de dados.
 
 Inspiração: [Cookiecutter Data Science](https://drivendata.github.io/cookiecutter-data-science/)
 
